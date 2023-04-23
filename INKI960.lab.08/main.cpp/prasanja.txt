@@ -1,0 +1,12 @@
+1. Sto znaci kratenkata CSS?; a) CoolStylesSuperior; b) CascadingStyleSheets; c) CostingSnowSnicth;
+2. Za sto se koristi elementot <p></p>?; a) Paragraph; b) Presmetuvanje; c) Pisuvanje;
+3. Koja programa najmnogu se koristi za Web dizajn?; a) Notepad; b) Angular; c) Visual Studio Code;
+4. Kolku patenti izmislil Nikola Tesla?; a) 100; b)Nad 100000; c)10000;
+5. API znaci:; a) Asia Pacific Initiative; b) Application Programming Interface; c) American Petroleum Institute; d) Academic Performance Index;
+6. Sto e CSS?; a) Stil; b)Jazik; c) Animacija; d) Programa;
+7. Sto znaci UI?; a) User Integer; b)User Interface; c) User Interchange d) User Indetification;
+8. Koj programski jazik e najdobar?; a) JavaScript; b) Python; c) Ruby; d) C++; 
+9. Terminot Kompajler znaci:; a) Presmetuvac; b) Objasnuvac; c) Preveduvac; d) Konvertirac; e) Funkcija;
+10. Sto e debugiranje?; a) Koregiranje na problem; b) Sortiranje; c) Programa; d) Softver; e) Identifikuvanje;
+11. Koj se osnovnite elementi vo CSS?; a) Style; b) Class; c) Paragraph; d) Title; e) Button;
+12. Koj se osnovnite elementi vo HTML?; a) Head; b) Html; c)Body d) Style; e) Anchor;
