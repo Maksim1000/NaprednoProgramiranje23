@@ -1,6 +1,0 @@
-1. 23.04.2023 19:12:12; Maksim; Risteski; INKI960
-2. 23.04.2023 19:17:29; Ana; Anakoska; INKI200
-3. 23.04.2023 19:18:20; Andrej; Stojceski; INKI369
-4. 23.04.2023 19:24:00; Maksim; Risteski; INKI960
-5. 23.04.2023 19:25:55; Andrej; Stojceski; INKI369
-6. 23.04.2023 19:27:30; Nikola; Damjanoski; INKI159
